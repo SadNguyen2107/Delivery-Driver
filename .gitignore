@@ -73,4 +73,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# Samples
+/[Aa]ssets/[Ss]amples.meta
+/[Aa]ssets/[Ss]amples/*
+
 .fake

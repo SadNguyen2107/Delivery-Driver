@@ -66,5 +66,8 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
     },
-    "dotnet.defaultSolution": "Delivery-Driver.sln"
+    "dotnet.defaultSolution": "Delivery-Driver.sln",
+    "cSpell.words": [
+        "Behaviour"
+    ]
 }

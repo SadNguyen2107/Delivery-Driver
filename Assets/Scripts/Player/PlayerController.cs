@@ -20,16 +20,6 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    void OnEnable()
-    {
-        _playerMoveAction?.Enable();
-    }
-
-    void OnDisable()
-    {
-        _playerMoveAction?.Disable();
-    }
-
     void Update()
     {
         Vector2 moveInput = _playerMoveAction.ReadValue<Vector2>();

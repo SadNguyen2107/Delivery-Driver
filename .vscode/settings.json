@@ -68,6 +68,7 @@
     },
     "dotnet.defaultSolution": "Delivery-Driver.sln",
     "cSpell.words": [
-        "Behaviour"
+        "Behaviour",
+        "Rigidbody"
     ]
 }

@@ -2,16 +2,16 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Collider Confiner
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
@@ -41,3 +41,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Roads
+    uniqueID: 1636920681
+    locked: 0
+  - name: Pickup
+    uniqueID: 3065651915
+    locked: 0
+  - name: Player
+    uniqueID: 3143689059
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3809331685
+    locked: 0
+  m_RenderingLayers:
+  - Default

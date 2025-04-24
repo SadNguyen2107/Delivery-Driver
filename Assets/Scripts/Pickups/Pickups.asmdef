@@ -1,0 +1,16 @@
+{
+    "name": "Pickups",
+    "rootNamespace": "",
+    "references": [
+        "GUID:16d2b34e3dff4b34c9539efe64c83e43"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
